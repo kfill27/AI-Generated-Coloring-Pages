@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ai-generated-coloring-pages/static/css/main.ebf0f5f8.css",
+    "main.js": "/ai-generated-coloring-pages/static/js/main.b733180b.js",
+    "static/js/787.a72fb243.chunk.js": "/ai-generated-coloring-pages/static/js/787.a72fb243.chunk.js",
+    "static/media/default_image.svg": "/ai-generated-coloring-pages/static/media/default_image.a4d442e8af1d092fe54c123b1d87ee02.svg",
+    "index.html": "/ai-generated-coloring-pages/index.html",
+    "main.ebf0f5f8.css.map": "/ai-generated-coloring-pages/static/css/main.ebf0f5f8.css.map",
+    "main.b733180b.js.map": "/ai-generated-coloring-pages/static/js/main.b733180b.js.map",
+    "787.a72fb243.chunk.js.map": "/ai-generated-coloring-pages/static/js/787.a72fb243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf0f5f8.css",
+    "static/js/main.b733180b.js"
+  ]
+}
