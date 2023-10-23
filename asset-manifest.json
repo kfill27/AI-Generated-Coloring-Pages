@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AI-Generated-Coloring-Pages/static/css/main.ebf0f5f8.css",
-    "main.js": "/AI-Generated-Coloring-Pages/static/js/main.ba3cedee.js",
-    "static/js/787.293637c1.chunk.js": "/AI-Generated-Coloring-Pages/static/js/787.293637c1.chunk.js",
-    "static/media/default_image.svg": "/AI-Generated-Coloring-Pages/static/media/default_image.a4d442e8af1d092fe54c123b1d87ee02.svg",
-    "index.html": "/AI-Generated-Coloring-Pages/index.html",
-    "main.ebf0f5f8.css.map": "/AI-Generated-Coloring-Pages/static/css/main.ebf0f5f8.css.map",
-    "main.ba3cedee.js.map": "/AI-Generated-Coloring-Pages/static/js/main.ba3cedee.js.map",
-    "787.293637c1.chunk.js.map": "/AI-Generated-Coloring-Pages/static/js/787.293637c1.chunk.js.map"
+    "main.css": "/ai-generated-coloring-pages/static/css/main.ebf0f5f8.css",
+    "main.js": "/ai-generated-coloring-pages/static/js/main.ca4ecab5.js",
+    "static/js/787.293637c1.chunk.js": "/ai-generated-coloring-pages/static/js/787.293637c1.chunk.js",
+    "static/media/default_image.svg": "/ai-generated-coloring-pages/static/media/default_image.a4d442e8af1d092fe54c123b1d87ee02.svg",
+    "index.html": "/ai-generated-coloring-pages/index.html",
+    "main.ebf0f5f8.css.map": "/ai-generated-coloring-pages/static/css/main.ebf0f5f8.css.map",
+    "main.ca4ecab5.js.map": "/ai-generated-coloring-pages/static/js/main.ca4ecab5.js.map",
+    "787.293637c1.chunk.js.map": "/ai-generated-coloring-pages/static/js/787.293637c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebf0f5f8.css",
-    "static/js/main.ba3cedee.js"
+    "static/js/main.ca4ecab5.js"
   ]
 }
